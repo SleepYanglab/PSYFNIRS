@@ -1,0 +1,14 @@
+[project]
+name = "psyfnirs"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.9",
+    "mne>=1.12.1",
+    "mne-nirs>=0.7.3",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "scipy>=1.17.1",
+]
